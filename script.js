@@ -72,3 +72,4 @@ async function searchCountry(countryName) {
     spinner.classList.add("hidden");
   }
 }
+  
